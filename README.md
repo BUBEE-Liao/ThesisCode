@@ -1,6 +1,6 @@
 # Leveraging Pre-trained Models and Various Types of Data to Improve Speech Translation
 
-This directory is associated with the paper:  
+This project is associated with the paper:  
 **"利用預訓練模型和多種類型的數據改進語音翻譯"**  
 **"Leveraging Pre-trained Models and Various Types of Data to Improve Speech Translation"**
 
@@ -11,7 +11,7 @@ It contains the following components:
 
 ## Datasets
 
-- our dataset contains : AISHELL-3 (path : /home/bubee/data/nas05/dataset/AISHELL-3), ner-trs(path : /home/bubee/data/nas04/sharedFolder/dataset/speech/ner-trs), ner-trs-pro(path : /home/bubee/data/nas04/sharedFolder/dataset/speech/ner-trs-pro)
+- our dataset contains : AISHELL-3 , ner-trs, ner-trs-pro
 
 ## Environment Setup
 

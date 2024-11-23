@@ -4,7 +4,9 @@ This project is associated with the paper:
 **"利用預訓練模型和多種類型的數據改進語音翻譯"**  
 **"Leveraging Pre-trained Models and Various Types of Data to Improve Speech Translation"**
 
-It contains the following components:
+![image](https://github.com/BUBEE-Liao/ThesisCode/blob/main/Training.png)
+
+Contains the following components:
 - List of datasets
 - Model architecture
 - Training script (`trainer.py`)
